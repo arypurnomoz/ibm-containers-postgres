@@ -1,4 +1,4 @@
-FROM postgres:9.4
+FROM postgres:9.6
 
 ENV PGBASE /var/lib/postgresql/data
 ENV PGDATA /var/lib/postgresql/data/pgdata
